@@ -1,0 +1,1 @@
+# Enable SSH on antminer 
